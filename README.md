@@ -14,7 +14,7 @@ class AdityaYadav:
         self.extracurricular = [
             "Tutor @ Machine Learning",
             "Open Source Contributor",
-            "Freelancer | Full Stack Developer"
+            "Freelancer | App Developer"
         ]
         self.focus = [, "Mathematics", "Scalable AI Solutions"]
         self.stack = {
