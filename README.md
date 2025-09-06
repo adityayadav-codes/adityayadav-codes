@@ -1,6 +1,5 @@
 # Hi 👋, I'm Aditya Yadav  
-
-**Software Developer | Open Source Contributor | App Developer
+\t\t\t\tSoftware Developer | Open Source Contributor | App Developer
 
 [C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,21 +7,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 
---python
-class AdityaYadav:
-    def __init__(self):
-        self.role = ["Software Engineer @ AcutusAI", "GSoC @ Apache"]
-        self.extracurricular = [
-            "Tutor @ Machine Learning",
-            "Open Source Contributor",
-            "Freelancer | Full Stack Developer"
-        ]
-        self.focus = ["ML", "Mathematics", "Scalable AI Solutions"]
-        self.stack = {
-            "AI/ML": ["LangChain", "PyTorch", "TensorFlow"],
-            "Backend": ["Express", "Python", "Django", "FastAPI"],
-            "Frontend": ["React", "TypeScript", "JavaScript"],
-            "Cloud": ["AWS", "Docker", "K8s"]
-        }
 
         
