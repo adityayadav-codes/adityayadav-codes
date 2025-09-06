@@ -11,16 +11,13 @@
 ```python
 class AdityaYadav:
     def __init__(self):
-        self.role = ["Software Engineer @ AcutusAI", "GSoC @ Apache"]
+        self.role = ["Software Developer @ AcutusAI"]
         self.extracurricular = [
             "Tutor @ Machine Learning",
             "Open Source Contributor",
             "Freelancer | Full Stack Developer"
         ]
-        self.focus = ["ML", "Mathematics", "Scalable AI Solutions"]
+        self.focus = [, "Mathematics", "Scalable AI Solutions"]
         self.stack = {
-            "AI/ML": ["LangChain", "PyTorch", "TensorFlow"],
-            "Backend": ["Express", "Python", "Django", "FastAPI"],
-            "Frontend": ["React", "TypeScript", "JavaScript"],
-            "Cloud": ["AWS", "Docker", "K8s"]
+            "Frontend": ["HTML", "CSS", "JavaScript"],
         }
