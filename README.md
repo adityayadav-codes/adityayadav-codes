@@ -1,8 +1,12 @@
 # Hi 👋, I'm Aditya Yadav  
 
-**Software Engineer | Open Source Contributor | Full Stack Developer**
+**Software Developer | Open Source Contributor | App Developer
 
-
+[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 
 --python
 class AdityaYadav:
@@ -20,9 +24,5 @@ class AdityaYadav:
             "Frontend": ["React", "TypeScript", "JavaScript"],
             "Cloud": ["AWS", "Docker", "K8s"]
         }
-[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+
         
