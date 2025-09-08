@@ -19,4 +19,11 @@ class AdityaYadav:
         self.focus = [, "Mathematics", "Scalable AI Solutions"]
         self.stack = {
             "Frontend": ["HTML", "CSS", "JavaScript"],
+        self.stack = {
+            "Progrqamming language": ["C", "C++", "JAVA"]
+
+        }
+             self.stack = {
+            "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoint"]
+
         }
