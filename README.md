@@ -21,9 +21,7 @@ class AdityaYadav:
             "Frontend": ["HTML", "CSS", "JavaScript"],
         self.stack = {
             "Progrqamming language": ["C", "C++", "JAVA"]
-
-        }
-             self.stack = {
+             }
+         self.stack = {
             "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoint"]
-
-        }
+             }
