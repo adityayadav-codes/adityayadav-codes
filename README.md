@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-yadav-42bb12373)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)]( https://adityayadav-codes.github.io/My-Portfolio/)
-[![Sunstone](https://img.shields.io/badge/SUNSTONE-1D2E5E?style=for-the-badge&logoColor=white)](https://app.sunstone.in/student/dashboard)
+[![Sunstone](https://img.shields.io/badge/SUNSTONE-1D2E5E?style=for-the-badge&logoColor=white)](https://d3s27eh1wskpwv.cloudfront.net/placement/Aditya_Yadav_cv_2498.pdf)
 
 ---
 
