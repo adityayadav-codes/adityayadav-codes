@@ -17,7 +17,7 @@ class AdityaYadav:
             "Open Source Contributor",
             "Freelancer | App Developer"
         ]
-        self.focus = ["Mathematics", "Problem Solving"]
+        self.focus = ["Mathematics", "Problem Solving", "kick-start Preparation"]
         self.stack = {
             "Frontend": ["HTML", "CSS"]
         self.stack = {
