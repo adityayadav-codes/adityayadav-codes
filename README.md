@@ -30,18 +30,10 @@
 class AdityaYadav:
     def __init__(self):
         self.role = ["Software Developer"]
-        self.extracurricular = [
-            "Tutor @ Machine Learning",
-            "Open Source Contributor",
-            "Freelancer | App Developer"
-        ]
         self.focus = ["Mathematics", "Problem Solving", "kick-start Preparation"]
         self.stack = {
             "Frontend": ["HTML", "CSS"]
-        self.stack = {
             "Progrqamming language": ["C", "C++", "JAVA"]
             "Backend language": ["sql", "mysql"]
-             }
-         self.stack = {
-            "Basic Fundamentals": ["Ms-Word", "Ms-Excel", "Ms-Powerpoint", "Adobe Photoshop", "Corel Draw"]
+        tools = [Git, Github, VS Vode]
              }
