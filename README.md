@@ -7,7 +7,10 @@
 [![Sunstone](https://img.shields.io/badge/SUNSTONE-1D2E5E?style=for-the-badge&logoColor=white)](https://d3s27eh1wskpwv.cloudfront.net/placement/Aditya_Yadav_cv_2498.pdf)
 
 ---
-
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=adityayadav-codes&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=adityayadav-codes&theme=dark)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav-codes&layout=compact&theme=dark)
 ### 🚀 What I’m Currently Doing
 - Solving DSA problems on LeetCode (Java)
 - Building Java + MySQL mini projects
