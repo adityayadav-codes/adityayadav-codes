@@ -11,6 +11,17 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=adityayadav-codes&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav-codes&layout=compact&theme=dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=adityayadav-codes&show_icons=true&theme=dark)
+## 🛠️ Projects
+🔹 **Hospital Management System (Java + MySQL)**
+- CRUD operations
+- JDBC integration
+- Role-based login
+
+🔹 **Student Result Portal**
+- Java backend
+- MySQL database
+- Console-based project
+- 
 ### 🚀 What I’m Currently Doing
 - Solving DSA problems on LeetCode (Java)
 - Building Java + MySQL mini projects
