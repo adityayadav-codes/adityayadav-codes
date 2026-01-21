@@ -27,7 +27,6 @@
 - Building Java + MySQL mini projects
 - Preparing for Product-based & Service-based interviews
 
-  
  📫 Open to internships & entry-level roles  
 💬 Let’s connect and build something impactful
 
