@@ -8,7 +8,7 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=adityayadav-codes&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=github-compact)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav-codes&layout=compact&theme=dark)
 ## 🛠️ Projects
 <pre> 🔹 **ATM Machine (Java + MySQL)**
