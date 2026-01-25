@@ -39,5 +39,5 @@ class AdityaYadav:
             "Frontend": ["HTML", "CSS"]
             "Progrqamming language": ["C", "C++", "JAVA"]
             "Backend language": ["sql", "mysql"]
-        tools = [Git, Github, VS Vode]
+        tools = [Git, Github, VS Code]
              }
