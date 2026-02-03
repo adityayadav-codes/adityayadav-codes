@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_yaduvanshii18/#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adityayadav-xcode)
 [![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@aditya_yadav018)
-[![Sunstone](https://img.shields.io/badge/SUNSTONE-1D2E5E?style=for-the-badge&logoColor=white)](https://d3s27eh1wskpwv.cloudfront.net/placement/Aditya_Yadav_cv_2498.pdf)
+
 
 ---
 ## 📊 GitHub Stats
