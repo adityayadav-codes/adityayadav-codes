@@ -10,7 +10,6 @@
 ## 📊 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=github-compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=adityayadav-codes&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ Projects
 <pre> 🔹 **ATM Machine (Java + MySQL)**
