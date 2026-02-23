@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;Aditya Yadav | BCA Student | Software Developer 
+d# &emsp;&emsp;&emsp;&emsp;&emsp;Aditya Yadav | BCA Student | Software Developer 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)]( https://adityayadav-codes.github.io/My-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-yadav-42bb12373)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_codes18/#)
@@ -10,8 +10,6 @@
 ## 📊 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=github-compact)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashyadav-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akashyadav-codes&icon=0&color=0)](https://visitcount.itsvg.in)
