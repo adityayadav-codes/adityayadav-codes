@@ -7,8 +7,6 @@
 [![Sunstone](https://img.shields.io/badge/SUNSTONE-1D2E5E?style=for-the-badge&logoColor=white)](https://d3s27eh1wskpwv.cloudfront.net/placement/Aditya_Yadav_cv_2498.pdf)
 
 ---
-## 📊 GitHub Stats
-
 # 📊 GitHub Stats:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=github-compact)
 ![](https://github-readme-stats.vercel.app/api?username=adityayadav-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
