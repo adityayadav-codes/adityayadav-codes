@@ -16,7 +16,23 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adityayadav-codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Hi 👋 I'm Aditya Yadav
 
+🎓 BCA Student  
+💻 Java Developer  
+🌱 Currently learning Data Structures and Algorithms
+
+---
+
+## 🚀 Skills
+
+Java  
+OOP Concepts  
+MySQL  
+HTML & CSS  
+Data Structures  
+
+---
 
 ## 🛠️ Projects
 <pre> 🔹 **ATM Machine (Java + MySQL)**
