@@ -1,35 +1,47 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">🚀 Java Backend Developer | BCA Student | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Learner;Backend+Enthusiast;Future+Software+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Aditya%20Yadav&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<h3 align="center">🚀 Java Backend Developer | DSA Enthusiast | Future Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;DSA+Problem+Solver;Building+Real+World+Projects;Future+Top+1%25+Engineer" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://adityayadav-codes.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" />
+    <img src="https://img.shields.io/badge/Portfolio-%2300F7FF.svg?&style=for-the-badge&logo=firefox&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/aditya-yadav-42bb12373">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/adityayadav-xcode">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/aditya_codes18/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://x.com/@aditya_yadav018">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://d3s27eh1wskpwv.cloudfront.net/placement/Aditya_Yadav_cv_2498.pdf">
+    <img src="https://img.shields.io/badge/Resume-%2300C853.svg?&style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Java Backend Developer (Beginner → Intermediate)
-- 🌱 Currently mastering **Data Structures & Algorithms**
-- 🎯 Goal: Crack **Product-Based Companies**
-- ⚡ Strong in **Consistency & Problem Solving**
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 💻 Java Backend Developer  
+- 🧠 Strong in Data Structures & Algorithms  
+- 🎯 Targeting Product-Based Companies  
+- 🔥 Discipline + Consistency = My Edge  
 
 ---
 
@@ -41,17 +53,25 @@
 
 ---
 
-## 🛠️ Projects
+## 📊 LeetCode Stats
 
-### 🔹 ATM Machine (Java + MySQL)
-- CRUD operations using JDBC  
-- Role-based authentication system  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adityayadav-xcode?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔹 ATM Machine System
+- Java + MySQL + JDBC  
+- Role-based authentication  
 - Real-world banking simulation  
 
-### 🔹 Smart Voting System (Team Project)
-- Python + Django backend  
-- Secure voting logic  
-- Team collaboration experience  
+### 🔹 Smart Voting System
+- Python + Django  
+- Secure voting system  
+- Team collaboration  
 
 ---
 
@@ -64,42 +84,41 @@
 
 ---
 
-## 📈 Activity Graph
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=tokyo-night)](https://github.com/adityayadav-codes)
+## 📈 Contribution Activity
 
----
-
-## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityayadav-codes&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🚀 What I’m Doing Now
-- 🧩 Solving DSA problems daily  
-- ⚙️ Building Java backend projects  
-- 🎯 Preparing for coding interviews  
+## 🐍 Contribution Snake (Cool Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityayadav-codes/adityayadav-codes/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📫 Open for Opportunities
-- 💼 Internships  
-- 👨‍💻 Entry-level Developer Roles  
+## 🧭 2026 Goals
+- ✅ 300+ DSA Problems  
+- ✅ 5+ Backend Projects  
+- 🔄 Learn Spring Boot  
+- 🎯 Crack Top Tech Company  
 
 ---
 
-## 💻 Fun Code
+## 💻 Developer Mindset
 
 ```java
 class AdityaYadav {
     String role = "Java Backend Developer";
 
-    String[] focus = {
-        "DSA",
-        "Problem Solving",
-        "Backend Development"
+    String[] strengths = {
+        "Consistency",
+        "Patience",
+        "Problem Solving"
     };
 
-    String motto = "Consistency beats talent 🚀";
+    String goal = "Top 1% Engineer 🚀";
 }
