@@ -1,66 +1,105 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;Aditya Yadav | BCA Student | Software Developer 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)]( https://adityayadav-codes.github.io/My-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-yadav-42bb12373)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_codes18/#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adityayadav-xcode)
-[![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@aditya_yadav018)
-[![Sunstone](https://img.shields.io/badge/SUNSTONE-1D2E5E?style=for-the-badge&logoColor=white)](https://d3s27eh1wskpwv.cloudfront.net/placement/Aditya_Yadav_cv_2498.pdf)
+<h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
+<h3 align="center">🚀 Java Backend Developer | BCA Student | DSA Learner</h3>
 
----
-# 📊 GitHub Stats:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes/&theme=github-compact)
-![](https://github-readme-stats.vercel.app/api?username=adityayadav-codes/&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityayadav-codes/&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadav-codes/&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Learner;Backend+Enthusiast;Future+Software+Engineer" />
+</p>
 
 ---
 
-# Hi 👋 I'm Aditya Yadav
-
-🎓 BCA Student  
-💻 Java Developer  
-🌱 Currently learning Data Structures and Algorithms
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://adityayadav-codes.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-yadav-42bb12373">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/adityayadav-xcode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.instagram.com/aditya_codes18/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
+- 💻 Java Backend Developer (Beginner → Intermediate)
+- 🌱 Currently mastering **Data Structures & Algorithms**
+- 🎯 Goal: Crack **Product-Based Companies**
+- ⚡ Strong in **Consistency & Problem Solving**
 
-Java  
-OOP Concepts  
-MySQL  
-HTML & CSS  
-Data Structures  
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,git,github,vscode" />
+</p>
 
 ---
 
 ## 🛠️ Projects
-<pre> 🔹 **ATM Machine (Java + MySQL)**
-- CRUD operations
-- JDBC integration
-- Role-based login
-  
-🔹 **Smart Voting System (Team Project)**
-- python backend
-- django database
-- Console-based project
-</pre>  
-### 🚀 What I’m Currently Doing
-- Solving DSA problems on LeetCode (Java)
-- Building Java + MySQL mini projects
-- Preparing for Product-based & Service-based interviews
 
- 📫 Open to internships & entry-level roles  
-💬 Let’s connect and build something impactful
+### 🔹 ATM Machine (Java + MySQL)
+- CRUD operations using JDBC  
+- Role-based authentication system  
+- Real-world banking simulation  
 
-```python
-class AdityaYadav:
-    def __init__(self):
-        self.role = ["Software Developer"]
-        self.focus = ["Mathematics", "Problem Solving", "kick-start Preparation"]
-        self.stack = {
-            "Frontend": ["HTML", "CSS"]
-            "Progrqamming language": ["C", "C++", "JAVA"]
-            "Backend language": ["sql", "mysql"]
-        tools = [Git, Github, VS Code]
-             }
+### 🔹 Smart Voting System (Team Project)
+- Python + Django backend  
+- Secure voting logic  
+- Team collaboration experience  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityayadav-codes&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityayadav-codes&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityayadav-codes&theme=tokyo-night)](https://github.com/adityayadav-codes)
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityayadav-codes&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 What I’m Doing Now
+- 🧩 Solving DSA problems daily  
+- ⚙️ Building Java backend projects  
+- 🎯 Preparing for coding interviews  
+
+---
+
+## 📫 Open for Opportunities
+- 💼 Internships  
+- 👨‍💻 Entry-level Developer Roles  
+
+---
+
+## 💻 Fun Code
+
+```java
+class AdityaYadav {
+    String role = "Java Backend Developer";
+
+    String[] focus = {
+        "DSA",
+        "Problem Solving",
+        "Backend Development"
+    };
+
+    String motto = "Consistency beats talent 🚀";
+}
