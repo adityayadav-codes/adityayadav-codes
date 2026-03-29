@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">❖ Java Developer | Learning Android & Cloud Technologies ❖ </h3>
+<h3 align="center">❖ Java Developer | Learning Android & Cloud Technologies ❖</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Problem+Solver;Backend+Java+Engineer;Future+Android+App+Developer" />
+</p>
+
+---
+
+## 🧠 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
@@ -53,20 +65,12 @@
 - Banking operations simulation  
 </p>
 
-<!-- Add Screenshot Here -->
-<!-- ![ATM Project](your-image-link-here) -->
-
----
-
 ### 🔹 Smart Voting System
 <p>
 - Python + Django  
 - Secure voting mechanism  
 - Team collaboration project  
 </p>
-
-<!-- Add Screenshot Here -->
-<!-- ![Voting Project](your-image-link-here) -->
 
 ---
 
