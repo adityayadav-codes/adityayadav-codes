@@ -2,7 +2,7 @@
 <h3 align="center">❖ Java Developer | Learning Android & Cloud Technologies ❖ </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Problem+Solver;Backend+Engineer;Future+FAANG+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Problem+Solver;Backend+Java+Engineer;Future+Android+App+Developer" />
 </p>
 
 ---
@@ -40,14 +40,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,git,github,vscode" />
-</p>
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityayadav-xcode?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
