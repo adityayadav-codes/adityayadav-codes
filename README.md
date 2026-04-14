@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">❖ Java Developer | Learning Android & Cloud Technologies ❖</h3>
+<h3 align="center">❖ App Developer | Learning Android & Cloud Technologies ❖</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;DSA+Problem+Solver;Backend+Java+Engineer;Future+Android+App+Developer" />
