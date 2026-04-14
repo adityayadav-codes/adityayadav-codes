@@ -51,7 +51,10 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,git,github,vscode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityayadav-codes&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,html,css,git,github,vscode" />
 </p>
 
 ---
